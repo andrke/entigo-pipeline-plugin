@@ -1,5 +1,5 @@
-@Library('entigo-jenkins-library')
-import entigo.Common
+@Library('webplatform-jenkins-library')
+import fleetcomplete.Common
 
 def common = new Common()
 
