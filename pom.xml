@@ -13,7 +13,7 @@
         <jenkins.version>2.249.1</jenkins.version>
         <java.level>8</java.level>
         <jersey.version>2.31</jersey.version>
-        <jackson.version>2.11.2</jackson.version>
+        <jackson.version>2.13.1</jackson.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <sonar.projectKey>entigolabs_entigo-pipeline-plugin</sonar.projectKey>
         <sonar.organization>entigo</sonar.organization>
